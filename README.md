@@ -1,2 +1,2 @@
 # CS188.1x
-edX AI class from Stanford
+edX AI class from Berkeley
